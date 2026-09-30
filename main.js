@@ -5,6 +5,8 @@ const botoes = document.querySelectorAll(".botao");
             botoes[i].classlist.add("ativo");   
         };
     }
+
+    
             
         
     
