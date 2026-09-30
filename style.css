@@ -85,10 +85,10 @@
         text-align: center;
     }
 
-.aba-conteudo-titulo-seccundario{
-    text-align: center:center
+.aba-conteudo-titulo-secundario{
+    text-align: center;
     color: var(--verde);
-    text-transform: uppercase
+    text-transform: uppercase;
 }
     
 
